@@ -1,0 +1,25 @@
+{
+    "name": "stylus-flex-grid",
+    "version": "0.0.1",
+    "description": "A stylus-based flex grid system",
+    "main": "./src/index.css",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jiangjiu/stylus-flex-grid"
+    },
+    "keywords": [
+        "flexbox",
+        "grid",
+        "stylus",
+        "responsive",
+        "css",
+        "framework",
+        "system"
+    ],
+    "author": "jiangjiu(1021808625@qq.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jiangjiu/stylus-flex-grid/issues"
+    },
+    "homepage": "https://github.com/jiangjiu"
+}
